@@ -67,9 +67,11 @@ plt.legend()
 ![image](https://github.com/Nivetham1710/TSA_EXP5/assets/94155183/a25f088a-2aee-445c-8325-94897339a05e)
 
 #### TREND PLOT REPRESENTATION :
+
 ![image](https://github.com/Nivetham1710/TSA_EXP5/assets/94155183/ebac7da6-b21b-4946-a82e-5b3fbf8792d1)
 
 #### RESIDUAL PLOT REPRESENTATION :
+
 ![image](https://github.com/Nivetham1710/TSA_EXP5/assets/94155183/fd392f25-a42f-4dd0-9b26-ceb6782aa65c)
 
 
